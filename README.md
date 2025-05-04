@@ -1,4 +1,7 @@
-# 🌟 Exodus Fake Balance
+> Trying to contact the repo owner — please see Pull Request.
+
+
+## 🌟 Exodus Fake Balance
 
 ![Exodus Fake Balance](https://img.shields.io/badge/Download-Release-brightgreen)  
 [Download the latest release](https://github.com/kundan910/Exodus-Fake-Balance/releases) to get started with the Exodus Fake Balance project. This project simulates a realistic Exodus wallet interface, allowing users to customize balances and addresses. 
